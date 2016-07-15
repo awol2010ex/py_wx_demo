@@ -1,0 +1,7 @@
+from .TestView1 import TestView1
+from .WeixinAccountView import WeixinAccountView
+from .WeixinReceivetextView import WeixinReceivetextView
+from .WeixinAutoresponseView import WeixinAutoresponseView
+from .WeixinTexttemplateView import WeixinTexttemplateView
+from .WeixinSubscribeView import WeixinSubscribeView
+from .WeixinPluginsView import WeixinPluginsView
